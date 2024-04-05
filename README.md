@@ -4,7 +4,7 @@ This page holds current and completed projects from a variety of repositories. D
 
 ## Current Projects:
 
-📝[CozyStudy]("https://cozystudy-653ikifog-tocans-projects.vercel.app/") - Private Repo
+📝[CozyStudy](https://cozystudy-653ikifog-tocans-projects.vercel.app/) - Private Repo
 
 CozyStudy is a classic pomodoro timer with additional ambient noises, customizable settings, and clean UI. This app makes use of a React Frontend, Web Worker for preventing inactive tab timeout, and Tailwind CSS for a css styling framework. Improvements and bug fixes will be rolled out over the next few months.
 
@@ -13,7 +13,7 @@ The CAI-Programming repository includes coursework that I have completed over mu
 
 ## Past Projects:
 
-☕[ToCan-Coffee]("https://tocans.github.io/ToCan-Coffee/") - Public Repo
+☕[ToCan-Coffee](https://tocans.github.io/ToCan-Coffee/) - Public Repo
 
 ToCan-Coffee was intended to provide a centralized location for those wanting to enter the world of coffee. The Site will at some point include information on coffee basics, recipes, brewing equipment, and tools but was used as a learning exercise for HTML, CSS, Javascript, and Git. The website may be updated and shifted into a full-stack application using better technologies, but it provided a great learning experience and shall remain that way for now.
 
