@@ -9,6 +9,7 @@ This page holds current and completed projects from a variety of repositories. D
 CozyStudy is a classic pomodoro timer with additional ambient noises, customizable settings, and clean UI. This app makes use of a React Frontend, Web Worker for preventing inactive tab timeout, and Tailwind CSS for a css styling framework. Improvements and bug fixes will be rolled out over the next few months.
 
 📈 CAI-Programming - Private Repo
+
 The CAI-Programming repository includes coursework that I have completed over multiple semesters while pursuing a Bsc in Computer Science and Artificial Intelligence at Technische Hoschule Ingolstadt. Assignments and Projects in Data Analytics, Web Design, Computer Vision, Neural Networks, and more is within this repository.
 
 ## Past Projects:
