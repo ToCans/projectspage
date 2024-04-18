@@ -4,7 +4,7 @@ This page holds current and completed projects from a variety of repositories. D
 
 ## Current Projects:
 
-📝[CozyStudy](https://cozystudy-653ikifog-tocans-projects.vercel.app/) - Private Repo
+📝[CozyStudy](https://cozystudy.vercel.app/) - Private Repo
 
 CozyStudy is a classic pomodoro timer with additional ambient noises, customizable settings, and clean UI. This app makes use of a React Frontend, Web Worker for preventing inactive tab timeout, and Tailwind CSS for a css styling framework. Improvements and bug fixes will be rolled out over the next few months.
 
