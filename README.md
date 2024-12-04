@@ -12,7 +12,7 @@ The CAI-Programming repository includes coursework that I have completed over mu
 
 📝[CozyStudy Site](https://cozystudy.vercel.app/) -  Private Repo
 
-CozyStudy is a classic pomodoro timer with additional ambient noises, customizable settings, and clean UI. This app makes use of a React Frontend, Web Worker for preventing inactive tab timeout, and Tailwind CSS for a css styling framework. Improvements and bug fixes will be rolled out over the next few months.
+CozyStudy is a classic pomodoro timer with additional ambient noises, customizable settings, and clean UI. This app makes use of a React Frontend, NodeJS and Express Backend, PostgreSQL Database, Web Worker for preventing inactive tab timeout, and Tailwind CSS for a css styling framework. Improvements and bug fixes will be rolled out over the next few months.
 
 ☕[ToCan-Coffee Site](https://tocans.github.io/ToCan-Coffee/) - Hosted via GitHub Pages
 </>[ToCan-Coffee Repo](https://github.com/ToCans/ToCan-Coffee/) - Public Repo
